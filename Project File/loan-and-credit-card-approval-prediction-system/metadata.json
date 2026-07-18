@@ -1,0 +1,6 @@
+{
+  "name": "Loan & Credit Card Approval Prediction System",
+  "description": "An interactive, full-stack machine learning workspace for credit card and loan approval prediction. Explore the data analysis, pre-processing, model training, and a live AI-powered classification engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
